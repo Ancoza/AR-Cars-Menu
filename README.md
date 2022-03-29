@@ -20,3 +20,12 @@
   <img src="Assets/Sprites/Target.jpg" alt="Target" width="100" height="100">
 </div>
     <br />
+    
+## Instructions
+ <p align="center">
+     Download <a href=https://mega.nz/file/ST5DTYTa#cPyUnNNA0uJI2hdk-UUmc7w_QL53Btm6FbXcerc8heI>Vuforia package</a>,
+    add vuforia package to Packages.
+</p>
+<p align="center">
+    Open Project in Unity, Select Assets/Scenes/SampleScene.
+</p>
